@@ -266,5 +266,25 @@ header {
   background: #55d6aa;
 }
 
+nav {
+  float: right;
+}
+
+nav ul {
+  margin: 0;
+  list-style: none;
+}
+
+nav li {
+  display: inline-block;
+  margin-left: 70px;
+  padding-top: 25px;
+}
+
+nav a {
+  color: #444444;
+  text-decoration: none;
+  text-transform: uppercase;
+}
 
 

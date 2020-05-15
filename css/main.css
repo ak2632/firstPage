@@ -262,6 +262,10 @@ textarea {
     page-break-after: avoid;
   }
 }
+.container {
+  width: 80%;
+  margin: 0 auto;
+
 header {
   background: #55d6aa;
 }
@@ -285,6 +289,11 @@ nav a {
   color: #444444;
   text-decoration: none;
   text-transform: uppercase;
+}
+
+nav a:hover {
+  color: #b3d4fc;
+}
 }
 
 
